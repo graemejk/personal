@@ -9,7 +9,7 @@ import Social from './components/Social.vue'
   <Menu/>
   <div class="wrapper">
   <div class="wrapper-inner">
-    <p>Hi, I'm <a href="https://www.gla.ac.uk/stafflist/search/person/4edee9e18597/">Graeme</a> a librarian, historian and educator advancing the <a href="https://en.wikipedia.org/wiki/Digital_transformation">digital transformation</a> in cultural instititutions. I am currently working at the <a href="https://www.gla.ac.uk/myglasgow/archivespecialcollections/">University of Glasgow</a>. I have a particular interest in digital humanities, book history and data visualisation. The best way to get a hold of me is by <a href="https://www.gla.ac.uk/stafflist/search/person/4edee9e18597/">email</a> or on <a href="https://twitter.com/gj_kemp">twitter</a>.</p>
+    <p>Hi, I'm <a href="https://www.gla.ac.uk/stafflist/search/person/4edee9e18597/">Graeme</a> a librarian, historian and educator advancing the <a href="https://en.wikipedia.org/wiki/Digital_transformation">digital transformation</a> in cultural institutions. I am currently working at the <a href="https://www.gla.ac.uk/myglasgow/archivespecialcollections/">University of Glasgow</a>. I have a particular interest in digital humanities, book history and data visualisation. The best way to get a hold of me is by <a href="https://www.gla.ac.uk/stafflist/search/person/4edee9e18597/">email</a> or on <a href="https://twitter.com/gj_kemp">twitter</a>.</p>
   </div>
 </div>
 
